@@ -110,15 +110,15 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/shafiunmiraz0"
-    - label: "Facebook"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shafiunmiraz0/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shafiunmiraz0"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@shafiunmiraz0"
 
 # Site Footer
 footer:

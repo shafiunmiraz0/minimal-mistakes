@@ -106,7 +106,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Upwork"
       icon: "fas fa-fw fa-upwork-square"
-      url: "https://www.upwork.com/freelancers/~01403a10ba0dff5635"
+      # url: "https://www.upwork.com/freelancers/~01403a10ba0dff5635"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/shafiunmiraz0"

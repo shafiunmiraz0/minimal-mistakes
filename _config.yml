@@ -104,7 +104,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Upwork"
       icon: "fas fa-fw fa-upwork"
       url: "https://www.upwork.com/freelancers/~01403a10ba0dff5635"
     - label: "Twitter"
